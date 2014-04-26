@@ -1,7 +1,11 @@
 {
-  "name": "UCS Sample",
+  "name": "my-project-name",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.4",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-cssmin": "0.6.x",
+    "grunt-css-prefix":"0.2.1"
   }
 }
