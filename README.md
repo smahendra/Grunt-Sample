@@ -1,4 +1,3 @@
 Grunt-Sample
 ============
-
-Grunt Sample for prefix
+First try at grunt to minify and concatenate CSS
